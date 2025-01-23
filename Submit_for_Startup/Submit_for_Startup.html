@@ -1,0 +1,83 @@
+<div>
+          <div style="text-align: center;"><a href="https://arborlanddesign-treblehook--sandbox.sandbox.lightning.force.com/{{!ObjectID15}}" target="_blank"><span style="font-size:16pt;"><strong>{{!thstd__Project__c.name}}</strong></span></a><br />
+          <span style="font-size:16pt;">{{!thstd__Project__c.thstd__Account__r.name}}</span><br />
+          <span style="font-size:13pt;">${{!thstd__Project__c.change_order_total__c #,###.##}}<br />
+          <br />
+          <strong>When setting up this project in Ajera, input the following ID in the treblehookId field on the project record:</strong>&nbsp;{{!thstd__Project__c.id}}<br />
+          <strong>If creating a new client in Ajera, input the following ID in the treblehookId field on the client record:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.id}}</span><br />
+          &nbsp;</div>
+          
+          <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 400px;">
+                    <tbody>
+                              <tr>
+                                        <td><strong>Project TrebleHook ID:</strong>&nbsp;{{!thstd__Project__c.id}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Account TrebleHook ID:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.id}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Job Number:</strong>&nbsp;{{!thstd__Project__c.thstd__project_number__c}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Proposal Number:</strong>&nbsp;{{!thstd__Project__c.thstd__project_number__c}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Industry:</strong>&nbsp;{{!thstd__Project__c.thstd__industry__c}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Start Date:</strong>&nbsp;{{!thstd__Project__c.thstd__actual_start_date__c M/d/yyyy}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>City:</strong>&nbsp;{{!thstd__Project__c.thstd__project_address_new__city__s}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>In City Limits?:</strong>&nbsp;{{!thstd__Project__c.in_city_limits__c}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Project Manager:</strong>&nbsp;{{!thstd__Project__c.Project_Manager__r.name}}</td>
+                              </tr>
+                              <tr>
+                                        <td><strong>Billing Address:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.billingstreet}},&nbsp;{{!thstd__Project__c.thstd__Account__r.billingcity}},&nbsp;{{!thstd__Project__c.thstd__Account__r.billingstate}},&nbsp;{{!thstd__Project__c.thstd__Account__r.billingpostalcode}}</td>
+                              </tr>
+                    </tbody>
+          </table>
+          <br />
+          &nbsp;<!-- ******************** START RELATED LIST SECTION UNIQUEID:739********************--><br />
+          ### RELATED LIST No: 739 ###
+          <style type="text/css">table.table739 {border:solid black 1px; border-collapse:collapse; border-spacing:0px;font-family:Arial Unicode MS,sans-serif; font-size:10pt; width:100% }
+          .table739header {text-align:center;font-weight:bold;border:solid black 1px;color:#FFFFFF;background-color:#000000;}
+          .table739footer {text-align:right;font-weight:bold;border:solid black 1px; height: 30px}
+          .table739RowEven{border:solid black 1px;}
+          .table739RowOdd{background-color:#cdcdcd;background-color:#a8a8a8;border:solid black 1px;}
+          .table739col0{border:solid black 1px;text-align:left;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table739col1{border:solid black 1px;text-align:left;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table739col2{border:solid black 1px;text-align:left;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table739col3{border:solid black 1px;text-align:left;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table739col4{border:solid black 1px;text-align:left;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          </style>
+          <table class="table739">
+                    <tbody>
+                              <tr>
+                                        <th class="table739header">Change Order Name</th>
+                                        <th class="table739header">Amount</th>
+                                        <th class="table739header">Fee Type</th>
+                                        <th class="table739header">Division</th>
+                                        <th class="table739header">Description</th>
+                              </tr>
+                    </tbody>
+                    <tbody style="page-break-inside: avoid !important; page-break-before: auto !important;"><!--{{!
+          <lineitems>
+          <class>table739</class>
+          <listname>change_orders__r</listname>
+          <column>name</column>
+          <column>amount__c</column>
+          <column>fee_type__c</column>
+          <column>division__c</column>
+          <column>description__c</column>
+          </lineitems>
+          }}-->
+                    </tbody>
+          </table>
+          <br />
+          <!-- ******************** END RELATED LIST SECTION UNIQUEID:739********************--></div>
+

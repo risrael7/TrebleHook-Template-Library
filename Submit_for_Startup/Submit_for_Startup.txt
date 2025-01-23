@@ -1,0 +1,21 @@
+{{!thstd__Project__c.name}}
+{{!thstd__Project__c.thstd__Account__r.name}}
+${{!thstd__Project__c.change_order_total__c #,###.##}}
+
+When setting up this project in Ajera, input the following ID in the treblehookId field on the project record: {{!thstd__Project__c.id}}
+If creating a new client in Ajera, input the following ID in the treblehookId field on the client record: {{!thstd__Project__c.thstd__Account__r.id}}
+
+Project TrebleHook ID: {{!thstd__Project__c.id}}
+Account TrebleHook ID: {{!thstd__Project__c.thstd__Account__r.id}}
+Job Number: {{!thstd__Project__c.thstd__project_number__c}}
+Proposal Number: {{!thstd__Project__c.thstd__project_number__c}}
+Industry: {{!thstd__Project__c.thstd__industry__c}}
+Start Date: {{!thstd__Project__c.thstd__actual_start_date__c M/d/yyyy}}
+City: {{!thstd__Project__c.thstd__project_address_new__city__s}}
+In City Limits?: {{!thstd__Project__c.in_city_limits__c}}
+Project Manager: {{!thstd__Project__c.Project_Manager__r.name}}
+Billing Address: {{!thstd__Project__c.thstd__Account__r.billingstreet}}, {{!thstd__Project__c.thstd__Account__r.billingcity}}, {{!thstd__Project__c.thstd__Account__r.billingstate}}, {{!thstd__Project__c.thstd__Account__r.billingpostalcode}}
+
+### RELATED LIST No: 739 ###
+Change Order Name	Amount	Fee Type	Division	Description
+
