@@ -1,0 +1,2 @@
+{"showCVJSON":false,"rpRichText":true,"pdfStitchData":{"pdfStitchOpts":[{"soqlFilter":"","selectByDefault":false,"prompt":null,"pdfOptNum":1,"pdfLabel":"","optName":"Project Phases","isTemplate":true,"fileType":"Attachment"}],"numPDFOpts":1,"numOfSpecifiedOpt":null,"allowUserCustomization":false}}
+

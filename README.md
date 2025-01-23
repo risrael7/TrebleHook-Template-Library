@@ -10,6 +10,7 @@ TrebleHook-Template-Library/
 │   │   ├── final_product/           # Images or PDFs of the final document
 │   │   ├── html_template.html       # HTML source code
 │   │   ├── text_template.txt        # Text-based template
+|   |   ├── Sdocs Template Details   # Screen shot of SDocs Template Configuration
 │   │   └── notes.md                 # Any additional context or usage notes
 ├── docs/
 │   ├── HOW_TO_USE.md                # Instructions for using these templates

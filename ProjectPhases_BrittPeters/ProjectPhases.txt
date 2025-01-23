@@ -1,0 +1,23 @@
+{{!thstd__Project__c.name}}
+Client: {{!thstd__Project__c.thstd__Account__r.name}}
+Client Key: {{!thstd__Project__c.thstd__Account__r.thstd__erp_account_id__c}}
+${{!thstd__Project__c.project_total__c #,###}}
+TrebleHook Project ID: {{!thstd__Project__c.id}}
+TrebleHook Account ID: {{!thstd__Project__c.thstd__Account__r.id}}
+Department: {{!thstd__Project__c.thstd__division__c}}
+Project City: {{!thstd__Project__c.thstd__project_city__c}}
+Project State: {{!thstd__Project__c.thstd__project_state__c}}
+Primary Market Segment: {{!thstd__Project__c.project_type__c}}
+BPA Project Manager: {{!thstd__Project__c.Project_Manager__r.name}}
+BPA Billing Manager: {{!thstd__Project__c.Billing_Manager__r.name}}
+Client A/R Email: {{!thstd__Project__c.thstd__Account__r.a_r_email__c}}
+Client Type: {{!thstd__Project__c.thstd__Account__r.type}}
+Client Address: {{!thstd__Project__c.thstd__Account__r.billingstreet}} {{!thstd__Project__c.thstd__Account__r.billingcity}}, {{!thstd__Project__c.thstd__Account__r.billingstate}} {{!thstd__Project__c.thstd__Account__r.billingpostalcode}}
+Client Phone: {{!thstd__Project__c.thstd__Account__r.phone ###-###-####}}
+Client Project Manager: {{!thstd__Project__c.Client_Project_Manager__r.name}}
+BPA Project #: {{!thstd__Project__c.thstd__project_number__c}}
+Client Project #: {{!thstd__Project__c.clientprojectnumber__c}}
+
+### RELATED LIST No: 550 ###
+Phase Name	Fee Type	Expenses	Phase Total
+

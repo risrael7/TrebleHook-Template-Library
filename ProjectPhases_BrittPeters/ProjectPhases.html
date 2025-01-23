@@ -1,0 +1,71 @@
+<div style="text-align: center;"><!-- ******************** START RELATED LIST SECTION UNIQUEID:753********************--><a href="https://brittpeters.lightning.force.com/{{!thstd__Project__c.id}}"><strong><span style="font-size:18pt;">{{!thstd__Project__c.name}}</span></strong></a><span style="font-size:16pt;"><br />
+          Client: <a href="https://brittpeters.lightning.force.com/{{!thstd__Project__c.thstd__Account__r.id}}">{{!thstd__Project__c.thstd__Account__r.name}}</a><br />
+          Client Key:&nbsp;{{!thstd__Project__c.thstd__Account__r.thstd__erp_account_id__c}}<br />
+          ${{!thstd__Project__c.project_total__c #,###}}</span></div>
+          
+          <div style="text-align: center;">
+          <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 500px;">
+                    <tbody>
+                              <tr>
+                                        <td>
+                                        <ul>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>TrebleHook Project ID:</strong>&nbsp;{{!thstd__Project__c.id}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>TrebleHook Account&nbsp;ID:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.id}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Department:</strong>&nbsp;{{!thstd__Project__c.thstd__division__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Project City:</strong>&nbsp;{{!thstd__Project__c.thstd__project_city__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Project State:</strong>&nbsp;{{!thstd__Project__c.thstd__project_state__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Primary Market Segment:</strong>&nbsp;{{!thstd__Project__c.project_type__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>BPA Project Manager:</strong>&nbsp;{{!thstd__Project__c.Project_Manager__r.name}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>BPA Billing Manager:</strong>&nbsp;{{!thstd__Project__c.Billing_Manager__r.name}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client A/R Email:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.a_r_email__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client Type:&nbsp;</strong>{{!thstd__Project__c.thstd__Account__r.type}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client Address:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.billingstreet}}&nbsp;{{!thstd__Project__c.thstd__Account__r.billingcity}}, {{!thstd__Project__c.thstd__Account__r.billingstate}}&nbsp;{{!thstd__Project__c.thstd__Account__r.billingpostalcode}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client Phone:</strong>&nbsp;{{!thstd__Project__c.thstd__Account__r.phone ###-###-####}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client Project Manager:</strong>&nbsp;{{!thstd__Project__c.Client_Project_Manager__r.name}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>BPA Project #:</strong>&nbsp;{{!thstd__Project__c.thstd__project_number__c}}</span></li>
+                                                  <li style="text-align: left;"><span style="font-size:13pt;"><strong>Client Project #:</strong>&nbsp;{{!thstd__Project__c.clientprojectnumber__c}}</span></li>
+                                        </ul>
+                                        </td>
+                              </tr>
+                    </tbody>
+          </table>
+          
+          <div style="text-align: left;"> </div>
+          </div>
+          
+          <div><!-- ******************** START RELATED LIST SECTION UNIQUEID:550********************--><br />
+          ### RELATED LIST No: 550 ###
+          <style type="text/css">table.table550 {border:solid black 1px; border-collapse:collapse; border-spacing:0px;font-family:Arial Unicode MS,sans-serif; font-size:10pt; width:100% }
+          .table550header {text-align:center;font-weight:bold;border:solid black 1px;color:#FFFFFF;background-color:#000000;}
+          .table550footer {text-align:right;font-weight:bold;border:solid black 1px; height: 30px}
+          .table550RowEven{border:solid black 1px;}
+          .table550RowOdd{background-color:#cdcdcd;background-color:#a8a8a8;border:solid black 1px;}
+          .table550col0{border:solid black 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table550col1{border:solid black 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table550col2{border:solid black 1px;text-align:center;font-weight:normal;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          </style>
+          <table class="table550">
+                    <tbody>
+                              <tr>
+                                        <th class="table550header">Phase Name</th>
+                                        <th class="table550header">Fee Type</th>
+                                        <th class="table550header">Expenses</th>
+                                        <th class="table550header">Phase Total</th>
+                              </tr>
+                    </tbody>
+                    <tbody style="page-break-inside: avoid !important; page-break-before: auto !important;"><!--{{!
+          <lineitems>
+          <class>table550</class>
+          <listname>project_phases__r</listname>
+          <column>name</column>
+          <column>pricing_type__c</column>
+          <column>Expenses__c</column>
+          <column format-number="#,###.##" prefix="$">phase_total__c</column>
+          </lineitems>
+          }}-->
+                    </tbody>
+          </table>
+          <br />
+          <!-- ******************** END RELATED LIST SECTION UNIQUEID:550********************--><br />
+          <!-- ******************** END RELATED LIST SECTION UNIQUEID:753********************--></div>
+
