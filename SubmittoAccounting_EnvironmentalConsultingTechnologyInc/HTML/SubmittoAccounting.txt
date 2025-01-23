@@ -1,0 +1,23 @@
+{{!thstd__Project__c.name}}
+{{!thstd__Project__c.thstd__Account__r.name}}
+Client Type Code: {{!thstd__Project__c.thstd__Account__r.client_type_code_formula__c}}	Contract Reference #: {{!thstd__Project__c.contract_reference_number__c}}
+Client Billing Contact: {{!thstd__Project__c.Client_Billing_Contact__r.name}}	PO#: {{!thstd__Project__c.po__c}}
+Billing Address: {{!thstd__Project__c.billing_address__c}} {{!thstd__Project__c.billing_city__c}} {{!thstd__Project__c.billing_state__c}} {{!thstd__Project__c.billing_zip__c}}	Date to Start Work: {{!thstd__Project__c.thstd__start_date__c M/d/yyyy}}
+Billing Email: {{!thstd__Project__c.billing_email__c}}	Date to Complete Work: {{!thstd__Project__c.thstd__target_completion_date__c M/d/yyyy}}
+Project County: {{!thstd__Project__c.project_county__c}}	Site Address: {{!thstd__Project__c.prime_project_location__c}}
+Project States: {{!thstd__Project__c.project_locations__c}}	Overtime Billable?: {{!thstd__Project__c.overtime_billable__c}}
+Project Manager Org Code: {{!thstd__Project__c.ECT_Project_Manager__r.org_code_picklist__c}}	Retainage?: {{!thstd__Project__c.retainage__c}}
+Project Manager: {{!thstd__Project__c.ECT_Project_Manager__r.name}}	Client Required Backup with Invoices?: {{!thstd__Project__c.does_client_require_backup_w_invoices__c}}
+Project Director: {{!thstd__Project__c.ECT_Project_Director__r.name}}	Comments to be Printed on Invoice: {{!thstd__Project__c.comments_to_be_printed_on_invoice__c}}
+Marketing Executive: {{!thstd__Project__c.Marketing_Executive__r.name}}	Additional Details: {{!thstd__Project__c.additional_accounting_details__c}}
+Anticipated Service Line: {{!thstd__Project__c.primary_service_line__c}}	Marketing Description: {{!thstd__Project__c.marketing_description__c}}
+Anticipated Work Type: {{!thstd__Project__c.primary_work_type__c}}	Billing Rate Schedule: {{!thstd__Project__c.Billing_Rate_Schedule__r.name}}
+Seal of an ECT registered professional required?: {{!thstd__Project__c.design_plans_sealed_by_ect__c}}	Project Total: ${{!thstd__Project__c.project_amount_rollup__c #,###.##}}
+Parent Project Name: {{!thstd__Project__c.thstd__Related_Project__r.name}}	Parent Project Number: {{!thstd__Project__c.parent_project_number__c}}
+Ultimate Account: {{!thstd__Project__c.Prime_Account__r.name}}	Created By: {{!thstd__Project__c.CreatedBy.name}}
+Market Sector: {{!thstd__Project__c.market_sector__c}}	
+
+Subconsultant Markup: {{!thstd__Project__c.subconsultant_markup__c}}%
+ODC Markup: {{!thstd__Project__c.reimbursable_markup__c}}%
+Line Item Name	Phase Manager	Fee Type	Work Type	Grand Total
+

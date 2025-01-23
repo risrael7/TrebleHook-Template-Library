@@ -1,0 +1,2 @@
+{{!UserName}} has requested marketing support for {{!thstd__Project__c.name}} 
+

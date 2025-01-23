@@ -1,0 +1,8 @@
+{{!thstd__Pricing__c.thstd__Project__r.name}}
+{{!thstd__Pricing__c.thstd__Project__r.thstd__Account__r.name}}
+
+{{!thstd__Pricing__c.name}}
+ODC Markup: {{!thstd__Pricing__c.reimbursables_markup__c}}
+Subconsultant Markup: {{!thstd__Pricing__c.subconsultant_markup__c}}
+Line Item Name	Employee	Subconsultant	Bill Rate	Hours	Grand Total
+

@@ -1,0 +1,101 @@
+<div style="text-align: center;"><span style="font-size:16pt;"><strong>{{!thstd__Pricing__c.thstd__Project__r.name}}</strong></span><br />
+          <span style="font-size:14pt;"><strong>{{!thstd__Pricing__c.thstd__Project__r.thstd__Account__r.name}}</strong></span></div>
+          
+          <table align="center" border="0" cellpadding="1" cellspacing="1" style="width: 800px;">
+                    <tbody>
+                              <tr>
+                                        <td style="width: 375px;">Client Type:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.thstd__Account__r.type_data_input__c}}</td>
+                                        <td style="width: 414px;">Contract Reference #:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Client Billing Contact:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.Client_Billing_Contact__r.name}}</td>
+                                        <td style="width: 414px;">PO#:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Billing Address:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.billing_address__c}}&nbsp;{{!thstd__Pricing__c.thstd__Project__r.billing_city__c}}&nbsp;{{!thstd__Pricing__c.thstd__Project__r.billing_state__c}}&nbsp;{{!thstd__Pricing__c.thstd__Project__r.billing_zip__c}}</td>
+                                        <td style="width: 414px;">Date to Start Work:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Project County:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.project_county__c}}</td>
+                                        <td style="width: 414px;">Date to Complete Work:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Project Manager Org Code:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Manager__r.org_code__c}}</td>
+                                        <td style="width: 414px;">Site Address:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Project Manager:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Manager__r.name}}</td>
+                                        <td style="width: 414px;">Overtime Billable?:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Project Director:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Director__r.name}}</td>
+                                        <td style="width: 414px;">Retainage?:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Marketing Executive:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.Marketing_Executive__r.name}}</td>
+                                        <td style="width: 414px;">Client Required Backup with Invoices?:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Anticipated Service Line:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.primary_service_line__c}}</td>
+                                        <td style="width: 414px;">Comments to be Printed on Invoice:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Anticipated Work Type:{{!thstd__Pricing__c.thstd__Project__r.primary_work_type__c}}</td>
+                                        <td style="width: 414px;">Additional Details:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Project States:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.project_locations__c}}</td>
+                                        <td style="width: 414px;">Billing Rate Schedule:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Seal of an ECT registered proffesional required?:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.seal_of_ect_registered_professional__c}}</td>
+                                        <td style="width: 414px;">Project Total:</td>
+                              </tr>
+                              <tr>
+                                        <td style="width: 375px;">Marketing Description:&nbsp;{{!thstd__Pricing__c.thstd__Project__r.marketing_description__c}}</td>
+                                        <td style="width: 414px;"> </td>
+                              </tr>
+                    </tbody>
+          </table>
+          
+          <div style="text-align: center;"><span style="font-size:12pt;"></span><br />
+          <span style="font-size:13pt;"><u><strong>{{!thstd__Pricing__c.name}}</strong></u></span><span style="font-size:12pt;"><br />
+          <strong>ODC Markup:</strong>&nbsp;{{!thstd__Pricing__c.reimbursables_markup__c}}<br />
+          <strong>Subconsultant Markup:</strong>&nbsp;{{!thstd__Pricing__c.subconsultant_markup__c}}</span></div>
+          <style type="text/css">table.table898 {border:solid black 1px;font-family:Arial Unicode MS,sans-serif; width:100%; margin-top: 10px; }
+          .table898header {text-align:center;font-weight:bolder;color:#FFFFFF;background-color:#000888; font-size:10pt;}
+          .table898col0{border:solid black 1px;background-color:#EEEEEE; text-align:center;font-weight:bolder;font-size:12pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col1{border:solid; border-color: white; border-right-color: #F0F0F0; 1px;text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col2{border:solid white 1px; border-right-color: #F0F0F0; text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col3{border:solid white 1px; border-right-color: #F0F0F0; text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col4{border:solid white 1px; border-right-color: #F0F0F0; text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col5{border:solid white 1px; border-right-color: #F0F0F0; text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          .table898col6{border:solid white 1px; text-align:center;font-weight:normal;font-size:10pt;font-family:Arial Unicode MS,sans-serif;}
+          </style>
+          <table class="table898">
+                    <tbody>
+                              <tr>
+                                        <th class="table898header">Line Item Name</th>
+                                        <th class="table898header">Employee</th>
+                                        <th class="table898header">Subconsultant</th>
+                                        <th class="table898header">Bill Rate</th>
+                                        <th class="table898header">Hours</th>
+                                        <th class="table898header">Grand Total</th>
+                              </tr>
+                              <!--{{! <LineItemsSOQL>
+          <class>table898</class>
+          <ListName>Phase_Line_Item__c</ListName>
+          <column prefix=" " postfix=" " >Phase__r.Name</column>
+          <column prefix=" " postfix=" " >Name</column>
+          <column prefix=" " postfix=" " >Employee__r.Name</column>
+          <column prefix=" " postfix=" " >Subconsultant__r.Name</column>
+          <column prefix=" " postfix=" " >Billing_Rate__r.Name</column>
+          <column prefix=" " postfix=" " >Hours__c</column>
+          <column  postfix=" " format-number="#,###.##" prefix=" $">Grand_Total__c</column>
+          <where>Phase__r.Pricing__c.thstd__Project__c='{{!ObjectID15}}' and Phase__r.Pricing__c.Accounting__c=true</where>
+          <groupby>Phase__r.Name</groupby>
+          <orderby>Phase__r.CreatedDate</orderby>
+          </LineItemsSOQL> }}-->
+                    </tbody>
+          </table>
+

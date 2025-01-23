@@ -1,0 +1,21 @@
+{{!thstd__Pricing__c.thstd__Project__r.name}}
+{{!thstd__Pricing__c.thstd__Project__r.thstd__Account__r.name}}
+Client Type: {{!thstd__Pricing__c.thstd__Project__r.thstd__Account__r.type_data_input__c}}	Contract Reference #:
+Client Billing Contact: {{!thstd__Pricing__c.thstd__Project__r.Client_Billing_Contact__r.name}}	PO#:
+Billing Address: {{!thstd__Pricing__c.thstd__Project__r.billing_address__c}} {{!thstd__Pricing__c.thstd__Project__r.billing_city__c}} {{!thstd__Pricing__c.thstd__Project__r.billing_state__c}} {{!thstd__Pricing__c.thstd__Project__r.billing_zip__c}}	Date to Start Work:
+Project County: {{!thstd__Pricing__c.thstd__Project__r.project_county__c}}	Date to Complete Work:
+Project Manager Org Code: {{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Manager__r.org_code__c}}	Site Address:
+Project Manager: {{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Manager__r.name}}	Overtime Billable?:
+Project Director: {{!thstd__Pricing__c.thstd__Project__r.ECT_Project_Director__r.name}}	Retainage?:
+Marketing Executive: {{!thstd__Pricing__c.thstd__Project__r.Marketing_Executive__r.name}}	Client Required Backup with Invoices?:
+Anticipated Service Line: {{!thstd__Pricing__c.thstd__Project__r.primary_service_line__c}}	Comments to be Printed on Invoice:
+Anticipated Work Type:{{!thstd__Pricing__c.thstd__Project__r.primary_work_type__c}}	Additional Details:
+Project States: {{!thstd__Pricing__c.thstd__Project__r.project_locations__c}}	Billing Rate Schedule:
+Seal of an ECT registered proffesional required?: {{!thstd__Pricing__c.thstd__Project__r.seal_of_ect_registered_professional__c}}	Project Total:
+Marketing Description: {{!thstd__Pricing__c.thstd__Project__r.marketing_description__c}}	
+
+{{!thstd__Pricing__c.name}}
+ODC Markup: {{!thstd__Pricing__c.reimbursables_markup__c}}
+Subconsultant Markup: {{!thstd__Pricing__c.subconsultant_markup__c}}
+Line Item Name	Employee	Subconsultant	Bill Rate	Hours	Grand Total
+
