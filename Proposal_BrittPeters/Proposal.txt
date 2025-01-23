@@ -1,0 +1,279 @@
+
+{{!DocumentDate}}
+{{!thstd__Project__c.thstd__Project_Contact__r.name}}
+{{!thstd__Project__c.thstd__Account__r.name}}
+{{!thstd__Project__c.thstd__Account__r.billingstreet}}
+{{!thstd__Project__c.thstd__Account__r.billingcity}}, {{!thstd__Project__c.thstd__Account__r.billingstate}} {{!thstd__Project__c.thstd__Account__r.billingpostalcode}}
+{{!thstd__Project__c.thstd__Account__r.phone ###-###-####}}
+
+Re: {{!thstd__Project__c.name}}
+
+Dear Mr./Ms. [Name],
+
+Britt, Peters & Associates (BPA) is pleased to submit this proposal to provide structural engineering services for the above referenced project.  This proposal covers our anticipated engineering services, including Scope of Work and Fee Schedule.
+
+This proposal is formatted as a series of sections setting out the assumptions we have made on scope and conditions in arriving at our proposal.
+
+We are very excited about the opportunity to work on this project and hope that our proposal meets your expectations.  We welcome an open dialogue regarding our proposal to ensure that the described Scope of Work for our services meets your approval.
+
+Section 1 - Reference Documents
+Our understanding of this project was set from the following:
+Section 2 - Project Description
+The following general project description was understood from the above noted reference documents:
+
+{{!thstd__Project__c.scope__c}}
+
+Section 3 - Scope of Work
+Summarized below is the scope of the structural engineering services to be provided.
+Design Items
+General Inclusions
+Delegated Design Items
+*Design can be provided by BPA as additional service
+Additional Services
+Section 4 - General Exclusions
+The following services are not included in this proposal for engineering services and for the purposes of this proposal are understood to be provided by another Client, other sub-consultant, or BPA as Additional Services.
+Section 5 - Fee Schedule
+Our Fee Schedule for the project is based on the gross square footage, estimated construction budget, and estimated project complexity as described in the above noted project description.  If the schedule, gross square footage, construction value, or complexity should vary materially from that which we have described in this proposal, BPA’s Fee Schedule shall be equitably adjusted.
+
+### RELATED LIST No: 971 ###
+Name	Phase Total
+
+Section 6 - Additional Services
+Services described in the General Exclusions or not specifically noted herein, shall be considered Additional Services.  Compensation for services rendered by principals and employees shall be hourly unless agreed to prior to commencement of Additional Services (Written permission will be obtained from the Client before Additional Services are rendered).
+ 
+Section 7 - Reimbursable Expenses
+Reimbursable expenses as described in the Terms and Conditions shall be billed as a multiple of 1.25 times the cost incurred.
+
+Section 8 - Hourly Rates
+Principal................................................................................................................... $225 - $250 / Hour
+Engineer.................................................................................................................. $105 - $175 / Hour
+Draftsman................................................................................................................. $95 - $115 / Hour
+Administrative............................................................................................................. $75 - $85 / Hour
+
+Should services under this agreement continue for a time period greater than one year, the Fee Schedule above will be adjusted on an annual basis to our then current schedule.
+
+This Letter of Agreement, Fee Schedule, Summary of Services, and Terms and Conditions, constitute the entire agreement between the parties. Please examine this document, and if acceptable, sign this letter and return it to our office. Retain a copy for your records. We will begin services upon receipt of a signed contract.
+
+Should you have any questions regarding this proposal, please feel free to contact us.
+
+Sincerely,
+Britt, Peters & Associates, Inc (PE)
+
+Name
+Title
+AGREED AND ACCEPTED
+   
+{{!thstd__Project__c.thstd__Project_Contact__r.name}}
+
+Date                                    
+
+BPA Mailing Address:  P.O. Box 336, Greenville, South Carolina 29602
+This is an exhibit attached to and made a part of the Letter of Agreement dated {{!DocumentDate}}, between Britt, Peters & Associates, Inc. and {{!thstd__Project__c.thstd__Account__r.name}}
+EXHIBIT A – SUMMARY OF SERVICES
+ 
+BASIC SERVICES	INCLUDED	EXCLUDED	REMARKS
+PROJECT DEVELOPMENT PHASE
+1. Assist in Development of Schedule			
+2. Assist in Determining Channels of Communication			
+3. Assist in Determining Responsibility for Dimensions			
+4. Assist in Determining Drawing Standards and Specifications Format			
+5. Assist in Determining Number of Meetings and Number of Site Visits			
+6. Negotiate Fees and Payment Schedule			
+7. Execute Contract			
+SCHEMATIC DESIGN PHASE
+1. Attend Design Team Coordination Meetings			
+2. Utilize Design Codes and Site-specific Conditions to Develop Design Criteria			
+3. Determine Structural System Based upon Use, Safety, Economics, Serviceability, Durability, Span Requirements, Dimensional Constraints, Construction Feasibility, Etc.			
+4. Recommend Appropriate Investigations, Surveys, Tests, Analyses and Reports			
+5. Evaluate Preliminary Architectural Plans and Elevations			
+6. Evaluate Multiple Structural Systems for Cost Estimating			
+7. Determine Foundation Systems and Related Structural Design Requirements			
+8. Prepare Schematic Design Documents			
+DESIGN DEVELOPMENT PHASE
+1. Attend Design Team Coordination Meetings			
+2. Wind and Seismic Analysis			
+3. Design of Structural Members for Established Design Criteria			
+4. Prepare Preliminary Foundation Drawings			
+5. Prepare Preliminary Slab Layout Drawings			
+6. Prepare Typical Detail Sheets			
+7. Identify Pre-Engineered Structural Elements			
+8. Prepare or Edit Outline Specifications for Structural Items			
+9. Submit Design Development Documentation for Approval			
+CONTRACT DOCUMENT PHASE
+1. Prepare Structural Design of Primary Structural System			
+2. Designate Elements to be Designed by Specialty Engineers, and Specify Structural Criteria for Specialty Engineers Design of Pre-Engineered Structural Elements			
+3. Review Effect of Secondary or Non-Structural Elements Attached to Primary Structural System			
+4. Prepare Structural Calculations for Submittal to a Reviewing Agency			
+5. Attend Design Team Coordination Meetings			
+6. Complete Structural Drawings			
+        6.1 Foundation/ Slab Plan			
+        6.2 Floor Framing Plans			
+        6.3 Wall Plan			
+        6.4 Roof Framing Plan			
+        6.5 Sections and Details			
+        6.6 Quality Assurance Plan			
+7. Perform Checking and Coordination of the Structural Documents			
+8. Prepare Specifications for Structural Items			
+9. Assist in Establishing Testing and Inspection Requirements			
+10. Submit Contract Documents			
+CONSTRUCTION ADMINISTRATION PHASE
+1. Bidding and Award			
+        1.1 Assist in Evaluating Bidder's Qualifications			
+        1.2 Assist Architectural Addenda and Clarifications			
+        1.3 Assist in Bid Evaluation			
+2. Pre-Construction Services			
+        2.1 Attend Design Team/Contractor Coordination Meetings			
+        2.2 Assist in Establishing Communications Procedures			
+        2.3 Assist in Establishing Procedures for Testing and Inspections			
+        2.4 Assist in Selection of Testing Agency			
+        2.5 Advise Client and Contractor Which Structural Elements Require Construction Observation by SE			
+        2.6 Respond to Building Department Comments			
+        2.7 Respond to Peer Reviewer Comments			
+3. Submittal Review			
+        3.1 Review of Specified Submittals for Structural Items Designed by Client			
+        3.2 Review Shop Drawings of Structural Components			
+        3.3 Review Special Inspection Submittals			
+        3.4 Review Other Submittals for Structural Components			
+4. Site Visits			
+        4.1 Make Site Visits at Intervals Appropriate to the Stage of Construction			
+        4.2 Prepare Site Visit Reports			
+        4.3 Document Final Acceptance			
+5. Construction Administration			
+       5.1 Construction Coordination - Contract Document Clarification			
+       5.2 Request for Information Responses related to clarification of design intent (RFI)			
+       5.3 Request for Information Responses related to unforeseen conditions (RFI)			
+       5.4 GC Substitutions			
+       5.5 Value Engineering			
+       5.6 Construction Coordination - Contractor Error			
+ 
+EXHIBIT B – TERMS AND CONDITIONS
+
+This is an exhibit attached to and made a part of the Letter of Agreement dated {{!DocumentDate}}, between Britt, Peters & Associates, Inc. and {{!thstd__Project__c.thstd__Account__r.name}}
+Section 1 - General
+This Agreement
+These Terms and Conditions, along with the Letter of Agreement and Summary of Services, form the Agreement as if they were part of one and the same document. Unless otherwise specified, this Agreement shall be governed by the laws of the principal place of business of the Professional Engineer (PE).
+The Letter of Agreement may modify the applicability of these Terms and Conditions. To the extent of any conflict, the Letter of Agreement shall control.
+The Client shall be responsible for determining and interpreting the needs of the Owner (if applicable), and for coordinating the work of the PE and other members of the design team.
+General Obligations of the PE and Client
+The PE and Client agree that the PE shall perform in a manner consistent with that degree of care and skill ordinarily exercised by members of the same profession currently practicing under similar circumstances at the same time and in the same or similar locality.
+The PE is retained by the Client for a limited engagement as an independent consultant, and this engagement shall not in any way limit the PE's normal practice of engineering, provided such practice or Client selection does not represent a conflict of interest.
+All reports, drawings, specifications, computer files, field data, notes, and other documents and instruments prepared by the PE as instruments of service shall remain the property of the PE.  The PE shall retain all common law, statutory and other reserved rights, including, without limitation, the copyrights thereto.
+The PE agrees that all information obtained from the Client is privileged and confidential and will only be released under the condition of specific court order, subpoena, or expressed written permission of the Client.  The Client will be informed of any request to produce documents or other evidence.
+The PE agrees to inform and advise the Client of the retention of any special consultants, testing, trial exhibits, or other exceptional expenses it deems necessary in the interest of this project.
+The PE shall routinely keep the Client informed of the status of this project. All reports shall be oral except when written reports are specifically requested by the Client.
+The Client shall verify that the contemplated project will be financed adequately, including provisions for contingencies, to accomplish the stated and desired goals and commitments.
+The Client shall provide all criteria and full information with regard to his or her requirements for the Project and shall designate a person to act with authority on his or her behalf with respect to all aspects of the Project. This shall include, but not be limited to, review and approval of design issues in the schematic design phase, design development phase, and contract documents phase. These approvals shall include an authorization to proceed to the next phase
+The Client shall provide to the PE reports of geotechnical investigations, property surveys, and other reports and data requested, as well as any previous reports or other data relative to the Project. The PE may use such information, requirements, reports, data, surveys and instructions in performing its services and is entitled to rely upon the accuracy and completeness thereof. The PE shall not be held responsible for any errors or omissions that may arise as a result of erroneous or incomplete information provided by the Client, the Owner, or other subconsultants of the Client and/or Owner.
+The PE shall recommend that the Client obtain those geotechnical investigations, property surveys, reports and other data necessary for performance of the PE's services.
+The PE shall designate a person to act with authority on his or her behalf with respect to all aspects of the Project.
+The PE shall not be required to sign any documents, no matter by whom requested, that would result in the PE’s having to certify, guarantee or warrant the existence of conditions whose existence the PE cannot ascertain. The Client also agrees not to make resolution of any dispute with the PE or payment of any amount due to the PE in any way contingent upon the PE’s signing of any such certification.
+The PE shall put forth reasonable professional efforts to comply with applicable laws, codes, and regulations in effect as of the date of the initial submission for Building Permit to the authority having jurisdiction. Design changes made necessary by newly enacted laws, codes and regulations after this date shall entitle the PE to a reasonable adjustment in the schedule and additional compensation in accordance with the Additional Services provisions of this Agreement.
+Definitions
+Prime Design Professional. Leader of the design team charged with the design of a new or remodeled facility, either a Client or an engineer. The Prime Design Professional is responsible for determining and interpreting the needs of the Owner and for coordinating the work of the other members of the design team.
+Primary Structural System. Completed combination of elements which serve to support the Building's self weight, the applicable live load (which is based upon the occupancy and use of the spaces), the environmental loads such as wind and thermal, plus the seismic loading. Curtain wall members, non-loadbearing walls or exterior facade are examples of items which are not part of the Primary Structural System.
+Pre-Engineered Structural Elements. Structural elements which are specified by the PE but may be designed by a Specialty Engineer. These elements are normally fabricated off-site, may require specialized equipment not usually available at the job site or could require a proprietary process. The PE shall specify the design criteria including the incorporation of the Pre-Engineered Structural Elements into the structure.
+Examples of Pre-Engineered Structural Elements may include but are not limited to:
+Open web steel joists and joist girders.
+Plated Wood trusses.
+Combination wood and metal, and plywood joists.
+Precast concrete elements.
+Prefabricated wood or metal buildings.
+Tilt-up concrete panel reinforcement and hardware required for lifting to position.
+Specialty Engineer. An engineer who is legally responsible for sealing plans and designs for Pre-Engineered Structural Elements which become part of the building. The Specialty Engineer is usually retained by a supplier or subcontractor who is responsible for the design, fabrication and (sometimes) installation of engineered elements.
+Secondary Structural Elements. Elements that are structurally significant for the function they serve but do not contribute to the strength or stability of the primary structure. Examples may include but not be limited to: support beams above the primary roof structure which carry a chiller, elevator support rails and beams, retaining walls independent of the primary building, and flagpole or light pole foundations.
+Non-Structural Elements. Elements of a structure that are not primary or secondary structural elements. Items in this category could be exterior Curtain walls and cladding. non-bearing partitions. stair railings, etc.
+Reimbursable Expenses. Expenses incurred directly or indirectly in connection with the project such as, but not limited to, transportation, meals lodging for travel, long distance telephone calls and facsimile transmissions. overnight, deliveries, courier services, professional services sales taxes, and the cost of reproductions beyond those normally required for coordination and information purposes.
+Professional Engineer (PE). An engineer with specialized knowledge, training and experience in the sciences and mathematics relating to analyzing and designing of force-resisting systems for buildings and other structures.
+Client. The "Client" is the person or entity named in this Agreement.
+Section 2 - Basic Services
+The PE’s work product shall be generally described per Section 2 unless specifically noted and/or modified in the letter of agreement.
+Construction Documents
+The Basic Services of the PE shall include the analysis of, design of, preparation of drawings and specifications for the Primary Structural System, as designated in the Letter of Agreement.
+Provide Structural criteria for Pre-Engineered Structural Elements, if required by the Summary of Services. This includes the type of element, position within the structure, connection to the Primary Structural System, the loading and deflection criteria, and the required shop drawing and calculation submittal requirements.
+Review the effect of Secondary and Non-Structural elements on the Primary Structural System and design the Primary Structural System to accept and support such items. The contract documents shall provide information regarding the supporting capability and physical attachment limitations of the Primary Structural System. Where the Summary of Services includes secondary and non-structural elements to be reviewed by the PE, the PE shall be entitled to rely on the accuracy and completeness of information furnished by the Prime Design Professional.
+Construction Administration
+Review specified Submittals pertaining to items designed by the PE. Determine whether Submittals have received prior approvals as required by the Contract Documents. Review of Submittals shall be for general conformance with the information given and design concept expressed in the Structural Contract Documents.
+Review submittals pertaining to Pre-Engineered Structural Elements specified by the PE and designed by Specialty Engineers. Determine whether Submittals have received prior approvals as required by the Contract Documents. Determine whether Submittals bear the signature and professional seal of the Specialty Engineer responsible for the design as required by the Contract Documents. Review of Pre-Engineered Structural Elements shall be for type, position, and connection to other elements within the Primary Structural System, and for criteria and loads used for their design. Review shall include determination that structural elements necessary for a stable structure will be provided.  The PE shall not be responsible for, nor through the review of submittals assume responsibility for, the coordination or design of delegated design items.
+Construction Observation
+Make site visits at intervals appropriate to the stage of construction and as defined by the Contract, in order to observe the progress and quality of the work completed by the contractor as it relates to the Primary Structural System. Such visits and observation are not intended to be an exhaustive check or a detailed inspection of the work but rather are to allow the PE to become generally familiar with the work in progress and determine, in general, if the work is proceeding in accordance with the contract. Prepare construction observation reports.  The PE shall not supervise, direct or have control over the contractor’s work nor have any responsibility for the constructions means, methods, techniques, sequences or procedures selected by the contractor nor for the contractor’s safety precautions or programs in connection with the work. These rights and responsibility are solely those of the contractor in accordance with the contract documents.   The PE shall not be responsible for any acts or omissions of the contractor, any subcontractor, any entity performing any portions of the work or any agents or employees of any of them. The PE does not guarantee the performance of the contractor and shall not be responsible for the contractor’s failure to perform its work in accordance with the contract documents or any applicable law, code, rules or regulations. Do not replace or act as the code required Special Inspections unless specifically included in the letter of agreement.
+Section 3 - Additional Services
+General
+Services beyond those outlined under Basic Services may be requested. These Additional Services may be provided by the PE under terms mutually agreed upon by the Client and the PE.
+Special Services are services which may or may not be foreseen at the beginning of design stages and are not normally included as Basic Services. Examples include, but are not limited to:
+Services related to Non-Structural Elements and their attachments, such as:
+Exterior cladding systems.
+Interior architectural systems.
+Window washing systems and tie downs.
+Antennas and flagpoles.
+Mechanical, electrical and plumbing equipment, storage tanks, cooling towers and underground vaults.
+Mechanisms and guide systems for elevators, escalators, other conveyor systems and associated operating equipment.
+Ladders, handrails, railings, grills, screens and signs.
+Glazing Systems
+Services related to Secondary Structural Elements and their attachments, such as:
+Site-work elements not part of the Building Structural System, such as retaining walls, culverts, bridges, etc.; as well as support for landscape furnishing such as flagpoles, lighting poles, benches, fountains, pools, signs, etc.
+Stairs.
+Tenant-related design services.
+Continuous and/or detailed inspections of construction.
+Preparation of "as-built" or record set of drawings.
+Preparation of shop or fabrication drawings, for example, tilt-up wall panel drawings, reinforcing and structural steel detailing, etc.
+Review and determination of structural fire resistance requirements.
+Swimming Pools
+Hardscape items such as site retaining walls, fountains, and trellis structures.
+Extra Services - These are services which arise as a result of unforeseen circumstances during the design or construction process. Examples include, but are not limited to:
+Services resulting from changes in scope or magnitude of the project as described and agreed to under the Basic Services Agreement.
+Services resulting from changes necessary because of a construction cost over-run which is outside the control of the PE.  This includes Value Engineering and development of options for pricing as a part of any such activity.
+Services resulting from revisions which are inconsistent with approvals or instructions previously given by the Client.
+Services resulting from revisions due to the enactment or revision of codes, laws, or regulations subsequent to the start of preparation of construction documents.
+Services resulting from Change Orders.
+Services resulting from corrections or revisions required because of errors or omissions in construction by the building contractor or in design by consultants other than the PE.
+Services resulting from construction procedures over which the PE has no control.
+Services due to extended design or construction time schedules.
+Services rendered for special foundations when the discovery of poor soil conditions is made after execution of this Agreement. Examples include, but are not limited to: deep foundations, mat footings, structural grade slabs, and grade beams.
+Section 4 - Fees and Payments
+Fees and Other Compensation
+Fees for Basic Services, Additional Services, and Compensation for Reimbursable Expenses are set forth in the Letter Agreement.
+Out-of-town trips will be billed as eight (8) hours per day for every full day away from the PE's usual office of practice, or actual time spent on the case plus travel time from port to port, whichever is greater.
+Payments on Account
+Invoices for the PE's services shall be submitted, at the PE's option, either upon completion of any phase of service or on a monthly basis. Invoices are due within 10 days of invoice date. A late charge of 1.5% will be added to any unpaid balance after 30 days.
+Retainers, if applicable to this Project, shall be credited to the final invoice.
+Any inquiry or questions concerning the substance or content of an invoice shall be made to the PE in writing within 10 days of receipt of the invoice. A failure to notify the PE within this period shall constitute an acknowledgment that the service has been provided.
+All payments shall be remitted to Britt, Peters & Associates PO Box 336 Greenville, SC 29602.
+Late Payments
+A service charge will be charged at the rate of 1.5% (18% true annual rate) per month or the maximum allowable by law on the then outstanding balance of PAST DUE accounts. In the event any portion of an account remains unpaid 90 days after billing the Client shall pay all costs of collection, including reasonable attorney's fees.
+In the event that any portion of an account remains unpaid 30 days after billing, the PE may, without waiving any claim or right against the Client, and without liability whatsoever to the Client, suspend or terminate the performance of all services.
+In the event that the PE suspends services due to failure of Client to provide payment, the PE shall give the Client 7 days written notice prior to suspension of services.  The PE shall not be liable for any impact, damages, or delay to the client due to the suspension of services.  Before resuming services, the PE shall be paid all sums due prior to suspension, and any expenses incurred in the interruption and resumption of services.  The PE’s fees for the remaining services and the time schedules shall be equitably adjusted.
+Section 5 - Insurance, Indemnifications, & Risk Allocation
+Insurance:
+The PE shall secure and endeavor to maintain professional liability insurance, commercial general liability insurance and automobile liability insurance to protect the PE from claims for negligence, bodily, injury, death, or property damage which may arise out of the performance of the PE's services under this Agreement, and from claims under the Workers' Compensation Acts. The PE shall, if requested in writing, issue certificate confirming such insurance to the Client.
+Indemnification:
+The Client shall indemnify and hold harmless the PE and all of its personnel from and against any and all claims, damages, losses and expenses (including reasonable attorney’s fees) arising out of or resulting from the performance of the services, provided that any such claims, damage, loss or expense is caused in whole or in part by the negligent act or omission and/or strict liability of the Client, anyone directly or indirectly employed by the Client (except the PE) or anyone for whose acts any of them may be liable.
+The PE shall indemnify and hold harmless the Client and its personnel from and against any and all claims, damages, losses, and expenses (including reasonable attorney's fees) to the extent they are caused by the negligent act, error, or omission by the PE in performance of its services under this Agreement, subject to the provisions in the paragraph below on Risk Allocation.
+The Client shall indemnify and hold harmless the PE and all of its personnel, from and against any and all claims, damages, losses and expenses (including reasonable attorney's fees) arising from the presence, discharge, release or escape of asbestos, hazardous waste, or other contaminants at the site.
+Risk Allocation:
+In recognition of the relative risks, rewards, and benefits of the project to both the Client and the PE, the risks have been allocated such that the Client agrees that, to the fullest extent permitted by law, to limit the liability of the PE and the  PE's officers, directors, partners, employees and shareholders for any and all claims, losses, cost, damages of any nature whatsoever or claims expenses from any cause or causes, including attorney’ fees and expert-witness fees and costs, so that the total aggregate  liability of the PE and the PE’s officers, directors, partners, employees and shareholders shall not exceed [SEE LIABILITY TABLE]. Such causes include, but are not limited to, the PE's negligence, errors, omissions, strict liability, breach of contract or breach of warranty.
+Notwithstanding any other provision of this Agreement, and to the fullest extent permitted by law, neither the Client nor the PE, their respective officers, directors, partners, employees, contractors or subconsultants shall be liable to the other or shall make any claim for any incidental, indirect or consequential damages arising out of or connected in any way to the Project or to this Agreement. This mutual waiver of consequential damages shall include, but is not limited to, loss of use, loss of profit, loss of business, loss of income, loss of reputation and any other consequential damages that either party may have incurred from any cause of action including negligence, strict liability, breach of contract and breach of strict or implied warranty. Both the Client and the PE shall require similar waivers of consequential damages protecting all the entities or persons named herein in all contracts and subcontracts with others involved in this project.
+It is intended by the parties to this Agreement that the PE's services in connection with the Project shall not subject the PE's individual employees, officers or directors to any personal legal exposure for the risks associated with this Project. Therefore, and notwithstanding anything to the contrary contained herein, the Client agrees that as the Client's sole and exclusive remedy, any claim, demand or suit shall be directed and/or asserted only against the PE, a South Carolina corporation, and not against any of the PE's individual employees, officers or directors.
+Section 6 - Miscellaneous Provisions
+Ownership of documents
+Designs, drawings, specifications, and other documents prepared by the PE are Instruments of Service for use solely with respect to this project.  The PE reserves all respective rights in and to those Instruments of Service including, but not limited to, copyrights.
+Opinion of Probable Construction Costs
+The PE's professional opinion of probable construction costs, if rendered as a service under this Agreement, is based on assumed labor costs and approximate quantities of material and equipment, and therefore is of a conditional character. The PE cannot guarantee or warrant, expressed or implied, the cost of work to be performed by others since market or bidding conditions can changes at any time and changes in the scope or quality of the Project may affect estimates.
+Hidden Conditions
+A structural condition is hidden if concealed by existing finishes or if it cannot be investigated by reasonable visual observation. If the PE has reason to believe that such a condition may exist, the PE shall notify the Client who shall authorize and pay for all costs associated with the investigation of such a condition and if necessary, all costs necessary to correct said condition. If (1) the Client fails to authorize such investigation or correction after due notification, or (2) the PE has no reason to believe that such a condition exists, the Client is responsible for all risks associated with this condition, and the PE shall not be responsible for the existing condition nor any resulting damages to persons or property.
+Delays:
+The Client agrees that the PE is not responsible for damages arising directly or indirectly from any delays for causes beyond the PE's control. For purposes of this Agreement, such causes include, but are not limited to, strikes or other labor disputes; severe weather disruptions or other natural disasters or acts of God; fires, riots, war or other emergencies; failure of any government agency to act in timely manner; failure of performance by the Client or the Client’s contractors or consultants; or discovery of any hazardous substances or differing site conditions. In addition, if the delays resulting from any such causes increase the cost or time required by the PE to perform its services in an orderly and efficient manner, the PE shall be entitled to a reasonable adjustment in schedule and compensation.
+Design without Construction Phase Services (if applicable)
+It is understood and agreed that the PE's Scope of Services under this Agreement does not include project observation or review of the Contractor's performance or any other construction phase services, and that such services will be provided for by the Client. The Client assumes all responsibility for interpretation of the Contract Documents and for construction observation, and the Client waives any claims against the PE that may be in any way connected thereto.
+The Client agrees, to the fullest extent permitted by law, to indemnify and hold harmless the PE, its officers, directors, employees and subconsultants (collectively, PE) against all damages, liabilities or costs, including reasonable attorneys' fees and defense costs, arising out of or in any way connected with the performance of such services by other persons or entities and from any and all claims arising from modifications, clarifications, interpretations, adjustments or changes made to the Contract Documents to reflect changed field or other conditions, except for claims arising from the sole negligence or willful misconduct of the PE.
+If the Client requests in writing that the PE provide any specific construction phase services, and if the PE agrees in writing to provide such services, then they shall be compensated for as Additional Services as provided in this Agreement.
+Termination, Successors and Assigns
+This Agreement may be terminated upon 10 days' written notice by either party should the other fail to perform its obligations hereunder. In the event of termination, the Client shall pay the PE for all services rendered to the date of termination, all reimbursable expenses, and reasonable termination expenses.
+The Client and the PE each binds himself or herself, partners, successors, executors, administrators, assigns and legal representative to the other party of this Agreement and to the partners, successors, executors, administrators, assigns, and legal representative of such other party in respect to all covenants, agreements, and obligations of this Agreement.
+Neither the Client nor the PE shall assign, sublet or transfer any rights under or interest in (including but without limitations, monies that may be due or monies that are due) this Agreement, without the written consent of the other, except as stated in the paragraph above, and except to the extent that the effect of this limitation may be restricted by law.  Unless specifically stated to the contrary in any written consent to an assignment, no assignment will release or discharge the assigner from any duty or responsibility under this Agreement.  Nothing contained in this paragraph shall prevent the PE from employing such independent consultants, associates, and subcontractors, as he may deem appropriate to assist him in the performance of services hereunder.
+The PE and Client agree that the services performed by the PE pursuant to this Agreement are solely for the benefit of the Client and are not intended by either the PE or the Client to benefit any other person or entity. To the extent that any other person or entity, including but not limited to the Contractor and/or any of its Subcontractors and other Design Professionals, is benefitted by the services performed by the PE pursuant to this Agreement, such benefit is purely incidental and such other person or entity shall not be deemed a third party beneficiary to this contract.
+Disputes Resolution
+All claims, counterclaims, disputes and other matters in question between the parties hereto arising out of or relating to this Agreement or the breach thereof will be presented to non-binding mediation. A mediator agreeable to the parties shall be selected. If no agreement can be reached among the parties, the matter shall be submitted to the Construction Industry Panel of the American Arbitration Association for non-binding mediation. Neither party shall institute or maintain any legal proceeding against the other until the mediation process has been completed. In the event that any dispute cannot be resolved in mediation, the unresolved issues shall be decided by the Court of Record, sitting without a jury, in the jurisdiction where the principal office of the PE is located.
+Severability and Survival
+Any term or provision of this Agreement found to be invalid under any applicable statute or rule of law shall be deemed omitted and the remainder of this Agreement shall remain in full force and effect.
+Notwithstanding completion or termination of this Agreement for any reason, all rights, duties, and obligations of the parties to this Agreement shall survive such completion or termination and remain in full effect until fulfilled.
+ 
